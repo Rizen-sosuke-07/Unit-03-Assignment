@@ -17,4 +17,4 @@ It ensures a safe and welcoming environment for open-source collaboration
 
 Project files organized into src and tests.
 Updated README as part of issue fix..
-This line fixes issue #4.
+This line fixes issue #4
